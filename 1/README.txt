@@ -1,3 +1,4 @@
+# ya he estudiado esta parte
 # functions, arguments, strings, side effects, return values, variables
 hello{0,1}.c
 
